@@ -9,3 +9,4 @@
 
 # Slick with oracle
 
+1. Install Oracle 18c XE
