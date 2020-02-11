@@ -1,0 +1,19 @@
+logs
+# SBT
+boot/
+lib_managed/
+target/
+.history
+.target/
+
+.idea/
+
+# Eclipse
+.cache
+.classpath
+.scala_dependencies
+.settings
+.target/
+bin/
+.project/
+.project
